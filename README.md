@@ -15,8 +15,8 @@ Nosso objetivo é aplicar conhecimentos de **robótica, automação** e **inteli
 
 ## Contato
 
-📧 **E-mail:** contato@raitec.ufc.br  
+📧 **E-mail:** raitec@ufc.br 
 🌐 **Site:** [www.raitec.ufc.br](http://www.raitec.ufc.br)  
-📌 **Local:** Universidade Federal do Ceará (UFC)  
+📌 **Local:** Departamento de Teleinformática - Universidade Federal do Ceará (UFC)  
 
 Junte-se a nós e faça parte dessa iniciativa! 🚀
