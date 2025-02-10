@@ -1,16 +1,28 @@
-## Hi there 👋
+# RAITec - Robótica, Automação, IA e Tecnologia
 
-<!--
-**RAITec/RAITec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre o RAITec
 
-Here are some ideas to get you started:
+O **RAITec** (Robótica, Automção, IA e Tecnologia) é um grupo de extensão da **Universidade Federal do Ceará (UFC)**, sem fins lucrativos, dedicado ao desenvolvimento de projetos solidários por meio da tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Nossa Missão
+
+Nosso objetivo é aplicar conhecimentos de **robótica, automação** e **inteligência artificial** para transformar vidas e promover o bem-estar da comunidade em geral.
+
+## O que fazemos
+
+- Desenvolvimento de **projetos tecnológicos solidários** com impacto social;
+- Pesquisa e aplicação de **robótica, automação e IA** para soluções inovadoras;
+- Promoção de eventos, cursos e workshops para difundir conhecimento;
+- Parcerias com instituições e comunidades para aplicação prática das soluções desenvolvidas.
+
+## Como Participar
+
+Se você tem interesse em tecnologia e deseja contribuir para um futuro melhor, entre em contato conosco! Buscamos estudantes, profissionais e entusiastas dispostos a aprender e compartilhar conhecimento.
+
+## Contato
+
+📧 **E-mail:** contato@raitec.ufc.br  
+🌐 **Site:** [www.raitec.ufc.br](http://www.raitec.ufc.br)  
+📌 **Local:** Universidade Federal do Ceará (UFC)  
+
+Junte-se a nós e faça parte dessa iniciativa! 🚀
